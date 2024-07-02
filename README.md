@@ -5,8 +5,8 @@ This project uses a pretrained Neural network model to add colors to black and w
 Sample inputs and their outputs:
 
 
-<img width="720" height="1080" src="sample/your_img_file_name.jpg" style="float:left; margin-right:10px;">
-<img src="sample/eiffel_colored.png" style="float:left;">
+<img width="500" height="750" src="sample/your_img_file_name.jpg" style="float:left; margin-right:10px;">
+<img width="500" height="750" src="sample/eiffel_colored.png" style="float:left;">
          
 ![Black and White](sample/lion.jpg)   ![Colored](sample/lion_colored.png)
 
