@@ -3,14 +3,10 @@
 This project uses a pretrained Neural network model to add colors to black and white images. The Neural network leverages its learned features to predict and apply colors, transforming grayscale inputs into vibrant, colored outputs automatically.
 
 Sample inputs and their outputs:
-<div>
-  <div style="type:flex">
-    <img align="left" width="500" height="500" src="sample/your_img_file_name.jpg"> 
-  </div>
-  <div>
-    <img align="right" width="500" height="500" src="sample/eiffel_colored.png">
-  </div>
-</div>
+
+
+<img src="sample/your_img_file_name.jpg" style="float:left; margin-right:10px;">
+<img src="sample/eiffel_colored.png" style="float:left;">
          
 ![Black and White](sample/lion.jpg)   ![Colored](sample/lion_colored.png)
 
