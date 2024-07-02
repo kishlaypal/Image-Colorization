@@ -6,13 +6,18 @@ Sample inputs and their outputs:
 
 1)
 <img width="500" height="750" src="sample/your_img_file_name.jpg" style="float:left; margin-right:10px;">
+Black and White
 <img width="500" height="750" src="sample/eiffel_colored.png" style="float:left;">
+Coloured
 
 2)
 <img width="500" height="750" src="sample/lion.jpg" style="float:left; margin-right:10px;">
+Black and White
 <img width="500" height="750" src="sample/lion_colored.png" style="float:left;">
+Coloured
 
-3)
+4)
 <img width="750" height="500" src="sample/rose.jpg" style="float:left; margin-right:10px;">
+Black and White
 <img width="750" height="500" src="sample/rose_colored.png" style="float:left;">
-
+Coloured
