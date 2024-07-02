@@ -6,18 +6,18 @@ Sample inputs and their outputs:
 
 1)
 
-<img width="200" height="300" src="sample/your_img_file_name.jpg" style="float:left; margin-right:10px;">
-<img width="200" height="300" src="sample/eiffel_colored.png" style="float:left;">
+<img width="300" height="450" src="sample/your_img_file_name.jpg" style="float:left; margin-right:10px;">
+<img width="300" height="450" src="sample/eiffel_colored.png" style="float:left;">
 
 
 2)
 
-<img width="200" height="300" src="sample/lion.jpg" style="float:left; margin-right:10px;">
-<img width="200" height="300" src="sample/lion_colored.png" style="float:left;">
+<img width="300" height="450" src="sample/lion.jpg" style="float:left; margin-right:10px;">
+<img width="300" height="450" src="sample/lion_colored.png" style="float:left;">
 
 
 3)
 
-<img width="300" height="200" src="sample/rose.jpg" style="float:left; margin-right:10px;">
-<img width="300" height="200" src="sample/rose_colored.png" style="float:left;">
+<img width="450" height="300" src="sample/rose.jpg" style="float:left; margin-right:10px;">
+<img width="450" height="300" src="sample/rose_colored.png" style="float:left;">
 
