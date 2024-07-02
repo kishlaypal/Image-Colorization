@@ -4,7 +4,7 @@ This project uses a pretrained Neural network model to add colors to black and w
 
 Sample inputs and their outputs:
 <div>
-  <div>
+  <div style="type:flex">
     <img align="left" width="500" height="500" src="sample/your_img_file_name.jpg"> 
   </div>
   <div>
