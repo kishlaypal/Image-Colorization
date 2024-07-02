@@ -7,7 +7,10 @@ Sample inputs and their outputs:
 
 <img width="500" height="750" src="sample/your_img_file_name.jpg" style="float:left; margin-right:10px;">
 <img width="500" height="750" src="sample/eiffel_colored.png" style="float:left;">
-         
-![Black and White](sample/lion.jpg)   ![Colored](sample/lion_colored.png)
 
-![Black and White](sample/rose.jpg)   ![Colored](sample/rose_colored.png)
+<img width="500" height="750" src="(sample/lion.jpg" style="float:left; margin-right:10px;">
+<img width="500" height="750" src="sample/lion_colored.png" style="float:left;">
+
+<img width="500" height="750" src="sample/rose.jpg" style="float:left; margin-right:10px;">
+<img width="500" height="750" src="sample/rose_colored.png" style="float:left;">
+
