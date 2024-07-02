@@ -4,4 +4,8 @@ This project uses a pretrained Neural network model to add colors to black and w
 
 Sample inputs and their outputs:
 
-![Black and White](sample/your_img_file_name.jpg)
+![Black and White](sample/your_img_file_name.jpg)   ![Colored](sample/eiffel_colored.png)
+
+![Black and White](sample/lion.jpg)   ![Colored](sample/lion_colored.png)
+
+![Black and White](sample/rose.jpg)   ![Colored](sample/rose_colored.png)
