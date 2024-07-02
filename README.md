@@ -6,7 +6,7 @@ Sample inputs and their outputs:
 
 ![Colored](sample/eiffel_colored.png)
 <img align="left" width="1000" height="1000" src="sample/your_img_file_name.jpg">
-<img align="left" width="1000" height="1000" src="sample/eiffel_colored.png">
+<img align="right" width="1000" height="1000" src="sample/eiffel_colored.png">
 
 ![Black and White](sample/lion.jpg)   ![Colored](sample/lion_colored.png)
 
