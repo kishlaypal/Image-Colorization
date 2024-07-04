@@ -6,8 +6,8 @@ Sample inputs and their outputs:
 
 1)
 <div style="display: flex align-items: center gap: 100px">
-  <img width="300" height="450" src="sample/albert.jpeg" style="float:left; margin-right:10px;">
-  <img width="300" height="450" src="sample/albert_colorized.jpg" style="float:left;">
+  <img width="450" height="300" src="sample/albert.jpeg" style="float:left; margin-right:10px;">
+  <img width="450" height="300" src="sample/albert_colorized.jpg" style="float:left;">
 </div>
 
 2)
