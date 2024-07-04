@@ -5,7 +5,7 @@ This project uses a pretrained Neural network model to add colors to black and w
 Sample inputs and their outputs:
 
 1)
-<div style="display: flex align-items: center justify-content: center gap: 20px;">
+<div style="display: flex align-items: center justify-content: center gap: 100px;">
   <img width="300" height="450" src="sample/your_img_file_name.jpg" style="float:left; margin-right:10px;">
   <img width="300" height="450" src="sample/eiffel_colored.png" style="float:left;">
 </div>
